@@ -4,7 +4,7 @@ version: "1.0.0"
 description: "Brackets Microtool"
 avatar: "https://placehold.it/50/123456"
 author: "Lijian"
-repoLink: "http://gitlab-xhproject.xlab.si/IDEA-SHENZHEN/mt-brackets.git"
+repoLink: "https://github.com/lijian186/git-brackets.git"
 image:
  imageName: "idea-mt-brackets"
  tag: "latest"
