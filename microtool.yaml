@@ -1,0 +1,16 @@
+---
+name: "Brackets"
+version: "1.0.0"
+description: "Brackets Microtool"
+avatar: "https://placehold.it/50/123456"
+author: "Lijian"
+repoLink: "http://gitlab-xhproject.xlab.si/IDEA-SHENZHEN/mt-brackets.git"
+image:
+ imageName: "idea-mt-brackets"
+ tag: "latest"
+ httpPorts: ["8090"]
+ registry:
+  url: "docker-registry.xlab.si"
+  username: "huawei"
+  password: "shenzen"
+categories: ["testers"]
